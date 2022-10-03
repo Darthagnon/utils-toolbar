@@ -3,6 +3,9 @@ Windows taskbar toolbar full of shortcuts to all the Windows settings you could 
 
 Windows has a lot of settings, many of which are well-hidden, difficult to find, or semi-deprecated (but still useful). Starting in Win7, I began collecting shortcuts to all the settings I actually used. This became absolutely vital when I got a Win10 PC, as M$ thought it wise to semi-deprecate the Control Panel and user-friendly settings in favour of the almost-useless Settings App.
 
+## Screenshot
+![Utils toolbar screenshot](/Utils_screenshot.png)
+
 ## Usage:
 
 1. Download this repo, and extract the zip to a sensible, permanent location on your PC (e.g. ```C:\Windows Tweaks_portable```)
